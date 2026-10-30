@@ -1,6 +1,6 @@
-VECTOR SIEGE - weapon sound design
+VECTOR SIEGE - tower sound design
 
-Pulse, Seeker launch and missile explosion use adapted/layered samples from:
+Pulse, Seeker launch/explosion, Beam loop/ignition, Arc and Stasis use adapted/layered samples from:
 Kenney - Impact Sounds (https://kenney.nl/assets/impact-sounds)
 Kenney - Sci-fi Sounds (https://kenney.nl/assets/sci-fi-sounds)
 License: Creative Commons CC0 1.0 Universal
